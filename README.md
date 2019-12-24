@@ -3,6 +3,7 @@
 > A vuejs grid with draggable and resizable boxes
 
 [Demo page](https://dnd-grid.duton.lu/)
+[See also](https://gitlab.com/shellyBits/v-chacheli)
 
 The **demo** requires **Vue >= 2.3.0** because of the ":layout.sync" feature
 
